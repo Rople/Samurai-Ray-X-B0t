@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 29/03/2018 04:51:20 p.m..
+     1>Proyecto "C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\SamurayX\SamurayX.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SAMURAYX_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\IW5Engine.cpp ..\main.cpp ..\Possesser.cpp ..\SamurayX.cpp ..\Vector3.cpp
+         Vector3.cpp
+         SamurayX.cpp
+         Possesser.cpp
+         main.cpp
+         IW5Engine.cpp
+         Generando código...
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\Debug\SamurayX.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\Debug\SamurayX.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\Debug\SamurayX.lib" /MACHINE:X86 /DLL Debug\IW5Engine.obj
+         Debug\main.obj
+         Debug\Possesser.obj
+         Debug\SamurayX.obj
+         Debug\Vector3.obj
+         SamurayX.vcxproj -> C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\Debug\SamurayX.dll
+     1>Compilación del proyecto terminada "C:\Users\Niko\Documents\Visual Studio 2013\Projects\SamurayX\SamurayX\SamurayX.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.47
